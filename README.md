@@ -5,7 +5,7 @@
 <img width="1358" height="638" alt="image" src="https://github.com/user-attachments/assets/88bf8e41-4903-4495-b66b-b6ebfd699b32" />
 
 
-View Project:
+View Project: https://ai-cover-letter-generator-jagc33qvudmukcgzfm2pjd.streamlit.app/
 
 
 ```markdown
