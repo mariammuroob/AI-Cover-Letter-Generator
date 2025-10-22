@@ -5,13 +5,15 @@
 <img width="1358" height="638" alt="image" src="https://github.com/user-attachments/assets/88bf8e41-4903-4495-b66b-b6ebfd699b32" />
 
 
+View Project:
+
 
 ```markdown
-# AI Cover Letter Generator
+AI Cover Letter Generator
 
 An intelligent AI-powered application that creates personalized, professional cover letters in seconds. Provide a job URL and the app automatically analyzes requirements to generate tailored cover letters matching your skills and experience.
 
-## ✨ Features
+✨ Features
 
 - 🔍 Smart Job Analysis - Automatically extracts key information from job postings
 - 🎯 Portfolio Matching - Finds your most relevant projects based on job requirements  
@@ -75,6 +77,6 @@ An intelligent AI-powered application that creates personalized, professional co
 - **Data Processing**: Pandas, ChromaDB
 - **Web Scraping**: LangChain WebBaseLoader
 - **Vector Database**: ChromaDB for portfolio matching
-```
+
 
 
